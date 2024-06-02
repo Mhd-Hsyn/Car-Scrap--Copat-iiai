@@ -1,0 +1,1014 @@
+{
+    "cars": [
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/78ba176c0ba840cdb75c5e914a7674e2_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b47fd8f8a3704689a834626bc46f3377_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/333189f27a4d44248b87da60086d2b6e_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f232afb0d64142b19bd92e0d7a9ec86c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/ade1f2400a64459ea9a7eaac42ab9366_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/87d1cbaed8a742029bcc343540be5fbb_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/d51f197858204d6a896fc1e2e9644d63_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/ed9d7be6863a40f08986e7d1c8247547_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/169d390e5a854043a5ffd033088b5a9b_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/242c2b47119040bda7e2961495a5167a_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/528fea34e540445a9bb6347ff81e38f7_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/51760a00fb6745548a77d279c14b8d9f_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/845123d3e59e43fb834b3510d448db0c_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "36747334",
+                    "VIN": "1GNSKCKC4FR******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "171,152 mi (ACTUAL)",
+                    "Primary_Damage": "FRONT END",
+                    "Secondary_Damage": "FRAME DAMAGE",
+                    "Estimated_Retail_Value": "$22,110.00 USD",
+                    "Cylinders": "8",
+                    "Body_Style": "4DR SPOR",
+                    "Color": "BLACK",
+                    "Engine_Type": "5.3L8",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "4x4 w/Rear Wheel Drv",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Build_Sheet": "Click Here",
+                    "Highlights": "Enhanced Vehicles",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 39min",
+                    "Current_Bid": "$3,100.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/92661e218f1f491090cffc11534af882_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/c92e0879962345d19b8729147d9575e1_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/66be117cbc08459d96869a2c82044524_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/291804cdd5b64fc69cb23e0ad718b77e_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/32aab02481374ec1adba2f37821a57d4_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b333f64e27994f9fb32b2c4f1b022948_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/e950bd0a6a0a45cf9238c575fac31636_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/cb1a905c020142ef8bd607af44dc5c50_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/fd9aed057ef443ecb1a9c332192e054c_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "36895254",
+                    "VIN": "1FTPW12V46K******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "158,821 mi (EXEMPT)",
+                    "Primary_Damage": "FRONT END",
+                    "Secondary_Damage": "MECHANICAL",
+                    "Estimated_Retail_Value": "$9,402.00 USD",
+                    "Cylinders": "8",
+                    "Color": "BEIGE",
+                    "Engine_Type": "5.4L8",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Rear-wheel drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "FLEXIBLE FUEL",
+                    "Keys": "YES",
+                    "Highlights": "Engine Start Program",
+                    "Seller": "USAA",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 39min",
+                    "Current_Bid": "$700.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b7b7eaaeddc5403a96b8369f4a2744ce_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/579444a4a738432989e919edffc1400b_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/2ffc809c200147828af63ca1b9fa2368_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/0febe45b439b40d78ea1a54a623e6304_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/6301e02f46b545a9b30d8ddcfadb6551_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/c068ffacf29640b5a327175ace6e2c18_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/fb311915d9ab418b8ab4e578907eb5af_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/4da3b0693a6744e1b86b400121078974_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/99ba1eabac4a4bd987fb83232cabb677_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/a76f4e0aa087494394c3b7d0474b13d3_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/cfd1bd9177b343e4ac74e8f1bd59701b_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/0fbcb1f9b0ed45178151df524d9a7f22_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "36920304",
+                    "VIN": "JHMCM56176C******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "146,841 mi (EXEMPT)",
+                    "Primary_Damage": "SIDE",
+                    "Secondary_Damage": "UNDERCARRIAGE",
+                    "Estimated_Retail_Value": "$6,847.00 USD",
+                    "Cylinders": "4",
+                    "Color": "BLUE",
+                    "Engine_Type": "2.4L4",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Front-wheel Drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 38min",
+                    "Current_Bid": "$1,250.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sublot_Location:": "YD93 A SUBLOT6001 E WILMOT RDTUCSON AZ 85756",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f0c06937e7fd4208a33760a0bd537652_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/49186bbb8bfb408486800eea4a167b6e_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/afa4e203e41c4d829b52e35fdc78e261_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/5ef845b7a9794306a198f26e2954f7f7_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/e4f7acd4969a41139031be60d7ccba77_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/6be8b7d09e054784ba8ef5920b687bcf_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f357d177d3af4e9587976901cfb96f5e_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/246ab4c9913e4a939925a9fb5e51a16e_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/a2df3dbe3cae4be390929c94f11ad8a3_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/7a628577bd444a87849ef175a4fe00aa_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/df4d01ce12d2435d901e61368cdb3517_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/540910e389c14d849b1538226624feb0_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "36946154",
+                    "VIN": "5NPEC4AB1DH******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "180,494 mi (ACTUAL)",
+                    "Primary_Damage": "FRONT END",
+                    "Secondary_Damage": "FRAME DAMAGE",
+                    "Estimated_Retail_Value": "$5,525.00 USD",
+                    "Cylinders": "4",
+                    "Color": "SILVER",
+                    "Engine_Type": "2.0L4",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Front-wheel Drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Seller": "USAA",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 38min",
+                    "Current_Bid": "$600.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/091127542b874a388df4d8fb77093dab_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/fe0ac639b74f435287297f502d8f94e2_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/a50b53284db24f199eac17427db456f3_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/372eb0d7f5bf4a8f980db71ab93d9f21_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/a6bec1dc5fa74604932da5525632453a_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/35e60c67e6ec49f5b3a4e01d02723a7c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/cbfe001bed824dd3bbb8b132928f5ba4_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/d53d22d54f764fa7ba20b499b3c8f80f_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/2143f695368c487897e31dc933b9b6cf_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/16424e9f36a24708b5f7a409a71e2bc7_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f4d4d3589b24457da07e6d31fc74a2b1_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f064901f6001421f9ce81e5250aa3c07_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "36965494",
+                    "VIN": "JF1ZCAC12E9******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "75,327 mi (ACTUAL)",
+                    "Primary_Damage": "REAR END",
+                    "Secondary_Damage": "FRAME DAMAGE",
+                    "Estimated_Retail_Value": "$15,966.00 USD",
+                    "Cylinders": "4",
+                    "Color": "CHARCOAL",
+                    "Engine_Type": "2.0L4",
+                    "Transmission": "MANUAL",
+                    "Drive": "Rear-wheel drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Build_Sheet": "Click Here",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 38min",
+                    "Current_Bid": "$150.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/a384d8c149374681a02c098736521871_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/d5d55b9398c24939a09169603f42b4c4_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/07026788ca65408194fef6645bd10ad6_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/7bf6ba18aa604a64a2da2b56b5d7095b_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/de81b3eacee64ad8864b0b761c6b118a_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f0f224eca0184d96b47910b2a5101f33_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/4cd0e6016d69427d83a21bb5cff70d3c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/9940a5e658554dc88fcf6b13574a3d25_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/aca53d9ff32943238177066c8770bedc_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8e05749d813244cfa080a4a08533483d_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/2710580a2eaa4f1ea0ecf04cdce43da8_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/86faca9b636a4d76b85a1cbc790a350a_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37105334",
+                    "VIN": "3VW637AJ7DM******",
+                    "Title_Code": "AZ - CERTIFICATE OF TITLE",
+                    "Odometer": "118,992 mi (NOT ACTUAL)",
+                    "Primary_Damage": "REAR END",
+                    "Estimated_Retail_Value": "$10,150.00 USD",
+                    "Cylinders": "4",
+                    "Body_Style": "SEDAN 4D",
+                    "Color": "BLUE",
+                    "Engine_Type": "1.4L4",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Front-wheel Drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "HYBRID ENGINE",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Minimum Bid",
+                    "Time_Left": "0D 5H 38min",
+                    "Current_Bid": "$175.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8be81127ceda47458847b60fab799e54_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/d82d12c3a3074a4d82c7cb18aa4ec680_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/87061c4890884d7d99c83ad6e144f283_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/e55b482d3eae417c8282a700a3068da5_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/35309815b5274b118f6d253fe3e857ac_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/dbbc9b317cdd46a395662e978383a245_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8b91ff7abde44c439a092bfa52bf25e8_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/03c4a5e5ab444caa9beac05de1e51ba5_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/3caa87dfa49946319e8e25ad7987dd9e_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/60ea1972dd5d4d9782299bf3093778c1_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/eea2562746b44d09bcb74fba6b38ec0d_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/e0b5ada6f1394c74a48025d9ad5edf66_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37139584",
+                    "VIN": "1ZVBP8AM4E5******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "152,210 mi (ACTUAL)",
+                    "Primary_Damage": "FRONT END",
+                    "Estimated_Retail_Value": "$9,049.00 USD",
+                    "Cylinders": "6",
+                    "Color": "SILVER",
+                    "Engine_Type": "3.7L6",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Rear-wheel drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Build_Sheet": "Click Here",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 37min",
+                    "Current_Bid": "$750.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/86ff3e65dc4d48fe9fd65b5000c2d36a_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/70b0921cb73b4207b4552e877ee031d1_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/12ee6db92e35425eacaf41b667cbab72_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/ae2183b36fd345a7a0a81e3707787cc9_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/996fa8792a484f3c89188d6d3f1d939c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/3058d6666fbc424a94dfb6ec59ead7e1_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/4f0889c14d7743d4919152b9855fb24f_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8127ef7d0c6c4b20af7d38dc0aff8b40_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/88416b41f83b454596c83bff44c015fc_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/31bc20f26cca4eeca8847616ec0e093b_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/5a872450896e43dbaaf35cee60afff51_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/a9834d79b16d48cabeb620dbc4e402fc_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/9c27ee3260e24a9bb8663a8d9c3b4bca_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37170224",
+                    "VIN": "1J4GK38K06W******",
+                    "Title_Code": "AZ - CERTIFICATE OF TITLE",
+                    "Odometer": "0 mi (EXEMPT)",
+                    "Primary_Damage": "MECHANICAL",
+                    "Cylinders": "6",
+                    "Color": "BLUE",
+                    "Engine_Type": "3.7L6",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Rear-wheel drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Enhanced Vehicles",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Minimum Bid",
+                    "Time_Left": "0D 5H 37min",
+                    "Current_Bid": "$175.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/d6f7086d3b0146bc8388132be89dbe16_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/6915568f56f746e6b5131d7eb9b612a2_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/67b0a81fceae4463972132b3393df615_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/9848e3d06a2e49968038fa33c2f3de86_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/2f08f53d3cf04546a4011900c317ac88_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/cd52e9c18d09449c905291948c6925f5_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/e6bf03e0eca6491aa4501b65e04ec0a9_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/d4084f9ec2504dbab07284096911d1d5_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/7d17c1e207e0470dafffc20b13d3be8b_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/1ec7f1bf53ca45a995c2c706f3a436c4_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/7e4463c681804c56be784c59e71ff27c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f30e46542dbe44499f704abd3b0b2e54_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/e64c76a07b964585b33c96c4b6063923_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37263654",
+                    "VIN": "1FADP3F27EL******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "0 mi (NOT ACTUAL)",
+                    "Primary_Damage": "FRONT END",
+                    "Secondary_Damage": "MECHANICAL",
+                    "Estimated_Retail_Value": "$4,520.00 USD",
+                    "Cylinders": "4",
+                    "Color": "BLACK",
+                    "Engine_Type": "2.0L4",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Front-wheel Drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Enhanced Vehicles",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 37min",
+                    "Current_Bid": "$150.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [],
+            "Vehicle_Details": [
+                {}
+            ],
+            "Bid_Information": [
+                {}
+            ],
+            "Sale_Information": [
+                {}
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/883f0b7cbf814e4d9a2b6c19a6d704c3_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/a2ab0dface444b29896eee7cc418c958_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8cc0fa1924d04885bd16e9b74357ab16_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/378eff31ee13411baf3a38bd30fef32b_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/87c5eeb6fce14fca8ec9adb348b9f861_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/c9a7bf2c87ef4d329e5126679295b092_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b3834b17726443bb9a7c1117147bbd21_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/fd48b03abd2744cfa9c7e75f3fc36f8d_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/7fceb441f7a6439a864510cd7fbf81f1_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/21582cec073d42edbc01b888398be5b8_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/0324dac8f65545aa82c92bd2a206c1fe_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/cb560b9e9c7b4202b3ffdfddda63a577_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b58a0bf74edb40379d306d2130808667_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37295444",
+                    "VIN": "AZ - CERTIFICATE OF TITLE(P)",
+                    "Title_Code": "AZ - CERTIFICATE OF TITLE(P)",
+                    "Odometer": "267,679 mi (ACTUAL)",
+                    "Primary_Damage": "MECHANICAL",
+                    "Estimated_Retail_Value": "$4,900.00 USD",
+                    "Cylinders": "6",
+                    "Body_Style": "4DR SPOR",
+                    "Color": "TWO TONE",
+                    "Engine_Type": "3.0L6",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "4x4 w/Front Whl Drv",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Minimum Bid",
+                    "Time_Left": "0D 5H 36min",
+                    "Current_Bid": "$300.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sublot_Location:": "YD93 A SUBLOT6001 E WILMOT RDTUCSON AZ 85756",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/6023b25a521c4ccbb8a2c9f61fb22c07_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/bc9959768e624973bea2c461b29c3285_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f3453d83aa2a487f9a8eec83244c76a8_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/6fd91856d886486c8f5abbff32f5be0c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/6f340936523b4004b865a8b0d0dc74ab_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b87ab3a005bc42728a8af0091f25c999_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/75f28577f86c4393bb97d254586a6880_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/9b21412b57eb45bba4f23dfc581ee5ff_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/2bb814421590412c96ce23e5dccfc3d1_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f04a01e9205d4567a573cb92663845e5_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/470df36f22814f9388f4daf08ae41869_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/c552761eac7c47f1b5accf0edf3e12d8_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37312024",
+                    "VIN": "WBAAN37441N******",
+                    "Title_Code": "AZ - CERTIFICATE OF TITLE(P)",
+                    "Odometer": "209,753 mi (ACTUAL)",
+                    "Primary_Damage": "MECHANICAL",
+                    "Estimated_Retail_Value": "$5,485.00 USD",
+                    "Cylinders": "6",
+                    "Body_Style": "SEDAN 4D",
+                    "Color": "BLUE",
+                    "Engine_Type": "2.5L6",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Rear-wheel drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Minimum Bid",
+                    "Time_Left": "0D 5H 36min",
+                    "Current_Bid": "$175.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/2e48233b7f284756b5565979a334c7d2_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b9519c75a072454787bcd07ee7ab31cc_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/9f8f0268cefb464a936ab188dba34eb0_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/14a637859fad4f3eafa3faa7a01edc50_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/4261f58b20a74683852b1c3fb56f25d7_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/eb41de5ece2e47f3af09be1d8950f4f8_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/618dd0d50dea48ef910baae6c1a7b6b5_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/79cc339a38f44c6f8794625760ad756f_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b30752c404a64979959c6bc66be2d9b3_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b97bd2320aa0478c81ca43ad290487f1_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/5112531b9d9f495badf67f47df02266d_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/41f3f092c01f473c81dc7e44da4ded97_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/fb00b51aad744c1aada6e96ddc4bacad_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37321554",
+                    "VIN": "1FTEW1CG9GK******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "160,865 mi (ACTUAL)",
+                    "Primary_Damage": "SIDE",
+                    "Secondary_Damage": "REAR END",
+                    "Estimated_Retail_Value": "$17,027.00 USD",
+                    "Cylinders": "6",
+                    "Color": "BURGUNDY",
+                    "Engine_Type": "3.5L6",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Rear-wheel drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 35min",
+                    "Current_Bid": "$6,100.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/2389109c41d247479f88e17685ad567c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/7c6daa2c6b98439396784a950016efeb_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/37cbdce77b124a59bf9708bfca6cfef6_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/615cc269c72d4fdf9381bc6f4b1b7076_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/594b5e884a584509b8678a93bc5b0b3c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b2abcb9a349642f6bc97bf7944815c83_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/4d317de00ae44ac89d238ef3bba1594f_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/e7592c9d8c0f47a1889f87154d5e64c1_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/6e74924d1b5d400b98a123f0f4b6a335_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/651b99134c1b4d58a95a70e77baa67c6_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f58f372a49bb4374a8ead398dd6ceb73_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/0e4a00b1ae3140ee9e5fc5e6a8ab1923_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/41c26f23721f4cdd8025e59caa6436ac_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37337534",
+                    "VIN": "1GNEC13ZX6R******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "235,889 mi (ACTUAL)",
+                    "Primary_Damage": "REAR END",
+                    "Secondary_Damage": "SIDE",
+                    "Estimated_Retail_Value": "$4,256.00 USD",
+                    "Cylinders": "8",
+                    "Body_Style": "4DR SPOR",
+                    "Color": "WHITE",
+                    "Engine_Type": "5.3L8",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Rear-wheel drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "FLEXIBLE FUEL",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 35min",
+                    "Current_Bid": "$175.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/29c0378465d34c669ec4e9a8be7b0b0c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/fd71e5f029cd41a7adf64f507f1a3bc2_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/962139d70d574a7882573edb9f018064_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/6831b3d9fdd64de9b981c3ddb96eaf6e_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b2eb3a1e74934c19aaf2cf0cac0e9254_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/5318361b5e324979abe7b1efa17d0d0f_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/481506dee7fa498a9aa239e869cf9892_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/40329c4069d84a2cae559af17ed95326_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/e951f2909af245d39ccba3c449ae191c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/9fee2c1dd2944774b8fd91a2ccfabcc2_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/93fe9ab987784a958ff834e1c2b8f5ce_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/945585589d1140f198028a017be5c1e5_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37355524",
+                    "VIN": "AZ - CERT OF TITLE - SALVAGE",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "218,066 mi (ACTUAL)",
+                    "Primary_Damage": "REAR END",
+                    "Secondary_Damage": "FRONT END",
+                    "Estimated_Retail_Value": "$10,023.00 USD",
+                    "Cylinders": "8",
+                    "Color": "WHITE",
+                    "Engine_Type": "6.0L8",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Rear-wheel drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 35min",
+                    "Current_Bid": "$250.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b4e1fe6216444cfb9b62df5b3dcca2a8_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/dfc955ec2fa44b7a9771d413667afdae_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/2a2fd01e8ce74bf3be4b722bfbe362a3_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/98ea5ea9132d45ddaa8ffb08d1f6121d_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/309b5aedfcaa4e68871a59e228fa1230_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/d10ca1a7b6984211ae6f6e696b22c1c8_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/9814c67bbf4a46fe89ed253936df7020_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/c14b555ae3bc4a0bb7ca50a8fc5c3730_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/650096cc21c9455084bbdcaea6ad37bd_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/dbf40085b8924d6ca098859452fc1ff6_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/bb4cba8122904236b8dfeac7d0caea9c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/1827fbc336cf4d4380f880afbf764bf4_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37426824",
+                    "VIN": "AZ - CERT OF TITLE - SALVAGE",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "0 mi (EXEMPT)",
+                    "Primary_Damage": "REAR END",
+                    "Estimated_Retail_Value": "$2,597.00 USD",
+                    "Cylinders": "4",
+                    "Color": "RED",
+                    "Engine_Type": "2.0L4",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Front-wheel Drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "NO",
+                    "Build_Sheet": "Click Here",
+                    "Highlights": "Enhanced Vehicles",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 34min",
+                    "Current_Bid": "$175.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/3e5a2acbc0b74c0dacc0e11d96c84f79_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/30f754d068b34de5aa1fc8d33b82929a_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/5ee6b34a1b194b72bd7cc5ee76bebae2_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/d2010b404a2b42879eee1fa50668b2a9_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/843689ea30f0457da30afbded7c49438_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8d78bff181e147efb6731791fba60fd8_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/eedbdbd6a42b45c894edb07e49e6df53_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/0f63e9facf6c4965b7f466846eee5b7e_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8a6c74d4891b457e9b8943404f06e003_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8312e34daa07474eab2dfd377b2e6b72_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/99110e6c3a6c45c4927c00bdd4854e7b_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/607d5d23e1204fb2b35b624095ab5709_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37429284",
+                    "VIN": "1GCEC19X48Z******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "237,612 mi (ACTUAL)",
+                    "Primary_Damage": "FRONT END",
+                    "Secondary_Damage": "FRAME DAMAGE",
+                    "Estimated_Retail_Value": "$6,282.00 USD",
+                    "Cylinders": "6",
+                    "Color": "WHITE",
+                    "Engine_Type": "4.3L6",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Rear-wheel drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Pure Sale",
+                    "Time_Left": "0D 5H 34min",
+                    "Current_Bid": "$225.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8427fb18f0a94ae888cd4e0ae651af0e_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8c0027f637cf44c284daec4c71a94840_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/76995eff4411472298d55cc1eb78376a_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/3199e0816a9949daa22710c0ebe51441_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/cb78bd0429574d6b9a883f0238eb9f10_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b75f789261ad43dab12394bed249fb0d_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/0f5189957c2e493382933378053acf6c_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/ef2314025ec0458c99e306008b6b75b2_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/547c5897de014a21abdbf2f0d0caedd0_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/6dc2228354e44012b5caeb2db6aaf213_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/ed5d944492d2488790047452c854e8ef_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/2c1d4ea0b60e438bbdb3c73367b5f68c_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37473244",
+                    "VIN": "1C3BCBEG8DN******",
+                    "Title_Code": "AZ - CERT OF TITLE - SALVAGE",
+                    "Odometer": "130,613 mi (ACTUAL)",
+                    "Primary_Damage": "REAR END",
+                    "Secondary_Damage": "FRAME DAMAGE",
+                    "Estimated_Retail_Value": "$8,333.00 USD",
+                    "Cylinders": "6",
+                    "Color": "CHARCOAL",
+                    "Engine_Type": "3.6L6",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Front-wheel Drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "FLEXIBLE FUEL",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Seller": "Farmers Insurance",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "Minimum Bid",
+                    "Time_Left": "0D 5H 34min",
+                    "Current_Bid": "$175.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sublot_Location:": "YD93 A SUBLOT6001 E WILMOT RDTUCSON AZ 85756",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/04e904bfd8e342fe89a2fc84cf69fb15_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/0a3e30b587724ff1a05e2e12157d3dd2_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/702b42000d104a08b8b5e42d52c0f329_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/8adc828cd64f4d49b80597b9dabe25df_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f30dd4bb3a7d4da5a4294a2f18b80041_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/00595d0c336d4272b10a333c5005b5eb_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/7f5821bdfb9a47649cbae39b6fcd0ef6_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/2aa896b5a8b648e38376f69ebf5a0326_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b0cc2a12052f45d2b200cb968561b646_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/aafe304240484e4498698cb764bcef57_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/0972e3fabd28444283395ba698dac087_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/3c700a8ec03943c784f1a787f0f3e761_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37544314",
+                    "VIN": "1N4BL11D85C******",
+                    "Title_Code": "AZ - CERTIFICATE OF TITLE",
+                    "Odometer": "177,849 mi (ACTUAL)",
+                    "Primary_Damage": "MECHANICAL",
+                    "Estimated_Retail_Value": "$4,925.00 USD",
+                    "Cylinders": "6",
+                    "Body_Style": "SEDAN 4D",
+                    "Color": "BLACK",
+                    "Engine_Type": "3.5L6",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Front-wheel Drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "On Approval",
+                    "Time_Left": "0D 5H 34min",
+                    "Current_Bid": "$175.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        },
+        {
+            "Car_Images": [
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/4f891a3631df4d8b8da31755a95fb142_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/fa3749f0b2c847008966a5a73fbf7239_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/4a4914f2bd00479fb887f5e365a149e3_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/f08d563fa8cd465282b07976f0f461f7_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/b369e49223024d4182957175acff24d2_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/16871eb6d21c4d12a54d36af1532bfca_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/df9ab5f1baf74b459093e0fadf2a492a_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/1a727babb3364e76afc8f899cfc02da0_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/7df5d0e3bbbd40059249ae76788ee530_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/5c16650dd93c46588e6f818a8a8ab39a_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/675b657e2e6a4e728f029994dd8d3ab3_ful.jpg",
+                "https://cs.copart.com/v1/AUTH_svc.pdoc00001/lpp/0124/cf55c1f7f9004290a61817416f521da3_ful.jpg"
+            ],
+            "Vehicle_Details": [
+                {
+                    "Lot_Number": "37544664",
+                    "VIN": "AZ - CERTIFICATE OF TITLE",
+                    "Title_Code": "AZ - CERTIFICATE OF TITLE",
+                    "Odometer": "118,258 mi (ACTUAL)",
+                    "Primary_Damage": "FRONT END",
+                    "Estimated_Retail_Value": "$24,900.00 USD",
+                    "Cylinders": "8",
+                    "Color": "WHITE",
+                    "Engine_Type": "5.7L8",
+                    "Transmission": "AUTOMATIC",
+                    "Drive": "Rear-wheel drive",
+                    "Vehicle_Type": "AUTOMOBILE",
+                    "Fuel": "GAS",
+                    "Keys": "YES",
+                    "Highlights": "Run and Drive",
+                    "Notes": "There are no Notes for this Lot"
+                }
+            ],
+            "Bid_Information": [
+                {
+                    "Sale_Status": "On Approval",
+                    "Time_Left": "0D 5H 33min",
+                    "Current_Bid": "$1,400.00 USD"
+                }
+            ],
+            "Sale_Information": [
+                {
+                    "Sale_Name:": "AZ - TUCSON",
+                    "Sale_Location:": "AZ - TUCSON",
+                    "Sale_Date:": "Sat. Feb 03, 202412:00 AM PKT",
+                    "Last_Updated:": "02/01/2024 8:12 pm"
+                }
+            ]
+        }
+    ]
+}
